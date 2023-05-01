@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-01T17:16:47 IST" name="Default suite" finished-at="2023-05-01T17:17:18 IST" duration-ms="31032">
+    <groups>
+    </groups>
+    <test started-at="2023-05-01T17:16:47 IST" name="Default test" finished-at="2023-05-01T17:17:18 IST" duration-ms="31032">
+      <class name="com.Rahul.BrowsterstackIntegration.BaseTest">
+        <test-method signature="configureAppium(java.lang.reflect.Method)[pri:0, instance:com.Rahul.BrowsterstackIntegration.BaseTest@54c5a2ff]" started-at="2023-05-01T17:16:47 IST" name="configureAppium" finished-at="2023-05-01T17:17:18 IST" duration-ms="30957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Rahul.BrowsterstackIntegration.BaseTest.configureAppium(java.lang.reflect.Method) throws java.net.MalformedURLException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+      </class> <!-- com.Rahul.BrowsterstackIntegration.BaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
